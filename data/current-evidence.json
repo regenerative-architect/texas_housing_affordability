@@ -1,0 +1,43 @@
+{
+  "schema": "texas-housing-os-evidence/2",
+  "retrieved": "2026-09-28",
+  "texas_statewide": {
+    "population_estimate_2025": 31709821,
+    "population_change_from_2020_base_percent": 8.8,
+    "housing_units_2025": 12848245,
+    "owner_occupied_rate_2020_2024_percent": 62.6,
+    "median_owner_value_2020_2024_usd": 283800,
+    "median_owner_cost_with_mortgage_2020_2024_usd_month": 2106,
+    "median_gross_rent_2020_2024_usd_month": 1403,
+    "median_household_income_2020_2024_2024usd": 78476,
+    "broadband_subscription_2020_2024_percent": 91.4,
+    "mean_commute_2020_2024_minutes": 26.7,
+    "building_permits_2024": 225756,
+    "source": "U.S. Census Bureau QuickFacts — Texas",
+    "source_url": "https://www.census.gov/quickfacts/fact/table/TX/COM100222",
+    "limitations": "Reference periods differ. QuickFacts notes sampling and methodology limitations; do not treat these values as one-year measurements."
+  },
+  "texas_broadband": {
+    "bead": {
+      "final_proposal_approved": "2025-12-04",
+      "selected_applicants": 22,
+      "broadband_serviceable_locations": "more than 240000",
+      "community_anchor_institutions": "more than 2700",
+      "federal_awards_usd": 1200000000,
+      "state_match_usd": 177000000,
+      "status_note": "BDO said projects could begin construction as soon as summer 2026; verify project-specific status in official award files/maps.",
+      "source_url": "https://comptroller.texas.gov/programs/broadband/funding/bead/"
+    },
+    "boot": {
+      "boot_i_award_usd": 10400000,
+      "boot_i_residential_locations": 1468,
+      "boot_i_businesses": 77,
+      "boot_i_anchor_institutions": 15,
+      "boot_ii_award_usd": 623400000,
+      "boot_ii_residential_locations": 61185,
+      "boot_ii_businesses": 18250,
+      "boot_ii_anchor_institutions": 2191,
+      "source_url": "https://comptroller.texas.gov/programs/broadband/funding/boot/"
+    }
+  }
+}

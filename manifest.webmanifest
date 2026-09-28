@@ -1,0 +1,14 @@
+{
+  "name": "Texas Housing Affordability & Resilience Collaboration OS",
+  "short_name": "Texas Housing OS",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111d",
+  "theme_color": "#0a2a43",
+  "description": "Local-first Texas housing planning, evidence, calculators, decentralized WebRTC collaboration, advanced guides and optional on-device WebLLM.",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "texas-housing-os-legacy-ws-relay",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Optional self-hosted Trystero WebSocket relay adapter. Not used by the default Nostr/MQTT/BitTorrent/IPFS application paths.",
+  "scripts": {"start":"node server.mjs"},
+  "dependencies": {"@trystero-p2p/ws-relay":"0.25.3"}
+}
